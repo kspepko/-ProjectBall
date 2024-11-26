@@ -1,2 +1,2 @@
-# -ProjectBall
-ы
+# ProjectBall
+Симуляция поведения бактерий
